@@ -1,0 +1,24 @@
+@charset "utf-8";
+
+ul li a {color: black;}
+ul li {list-style-type: none;}
+#menu ul { border-radius: 7px 7px 7px 7px;border: 1px solid;}
+#menu ul li{text-align: left; position: relative;}
+.menu-icon{ width: 20px;text-align: left;}
+.menu-items{padding-top: 5px;padding-bottom: 10px; }
+.menu-name{ padding-left: 5px;}
+
+#menu li:hover {
+    background: red;
+  }
+
+  #menu .sub-menu {
+    position: absolute;
+    left: 250px;
+    top: 0;
+    display: none;
+   }
+
+   #menu li:hover .sub-menu {
+    display: block;
+   }

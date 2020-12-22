@@ -1,0 +1,13 @@
+@charset "utf-8";
+
+#tieude{
+    text-align: center;
+    margin-top: 10px;
+    font-size: 20px;
+}
+.gioitinh{
+    margin-left: 20px;
+}
+.form-group{
+    margin-bottom: 1rem;
+}

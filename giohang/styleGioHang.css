@@ -1,0 +1,213 @@
+body
+{
+    background-color: white;
+    
+}
+textarea
+{
+    width: 100%;
+    height: 100px;
+}
+.clearUl ul,clearUl li
+{
+    list-style: none;
+    margin:0px auto 0px auto;
+    padding: 0px;
+}
+.clear5px
+{
+    clear: both;
+    height: 5px;
+}
+.clear5px
+{
+    clear: both;
+}
+.clear15px
+{
+    clear: both;
+    height: 15px;
+}
+.bannerlive .flexslider
+{
+    position: relative;
+    clear: both;
+    overflow: hidden;
+}
+element.style
+{
+    width: 100%;
+    float: left;
+    margin-right: -100%;
+    position: relative;
+    display: none;
+}
+.fix1
+{
+    width: 1270px;
+    margin: 0px;
+}
+.h-menu .title
+{
+    background-color: coral;
+    text-align: center;
+    padding: 10px;
+}
+.h-menu .title span
+{
+    font-weight: bold;
+    text-decoration: none;
+    text-transform: uppercase;
+    display: block;
+}
+.bobmenu-wrapper
+{
+    border-top: none;
+    z-index: 8;
+    position: relative;
+    background-color: aliceblue;
+}
+.bobmenu-wrapper ul.bobmenu
+{
+    overflow: hidden;
+    
+}
+.h-banner
+{
+    float: left;
+    width: 60%;
+}
+.bannerlive .slides
+{
+    display: block;
+}
+.bannerlive .flexslider .slides
+{
+    margin: 0;
+}
+.bannerlive .flexslider .slides
+{
+    padding: 0;
+}
+.bannerlive .slides, .bannerlive .flex-control-nav, .bannerlive .h-banner .flex-direction-nav
+{
+    list-style: none;
+}
+.bannerlive .flex-control-nav
+{
+    position: absolute;
+    bottom: 10px;
+    left: 0px;
+    margin:0 !important;
+    padding:0 !important ;
+    z-index: 2;
+    width: 100%;
+    text-align: right;
+    padding-right: 20px;
+}
+.bannerlive .flex-control-nav li
+{
+    margin: 0 3px;
+    display: inline-block;
+    font-size: 0;
+}
+.clearUl ul, .clearUl li
+{
+    list-style:none;
+    margin: 0px auto 0px auto;
+    padding: 0px 0px 0px 0px;
+}
+li
+{
+    display: list-item;
+    text-align: -webkit-match-parent;
+}
+.bannerlive .flex-direction-nav
+{
+    display: none;
+    margin:0 !important;
+    z-index: 2;
+}
+ul
+{
+    display: block;
+    list-style-type: disc;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;
+}
+.h-BannerR {
+    float: right;
+    width: 20%;
+}
+div {
+    display: block;
+}
+.clearUl ul, .clearUl li {
+    list-style: none;
+    margin: 0px auto 0px auto;
+    padding: 0px 0px 0px 0px;
+}
+a:-webkit-any-link {
+    color: -webkit-link;
+    cursor: pointer;
+    text-decoration: underline;
+}
+body {
+    margin: 0px auto 0px auto;
+    padding: 0px 0px 0px 0px;
+    text-align: left;
+    
+}
+html {
+    border: 0;
+    margin: 0px auto 0px auto;
+    padding: 0px 0px 0px 0px;
+    font-size: 13px;
+    font-family: Arial;
+    text-align: center;
+}
+html {
+    color: -internal-root-color;
+}
+.bobmenu-wrapper {
+    border-top: 0 none;
+    z-index: 8;
+    position: relative;
+    background-color: #ffffff;
+}
+.bobmenu-wrapper ul.bobmenu li {
+    height: 35px;
+}
+.aside {
+    min-width: 210px;
+    width: 11%;
+    position: fixed;
+    top: 0;
+    left: -1px;
+    bottom: 0;
+    background-color: #f26722;
+    font-family: Helvetica, Arial, sans-serif;
+    border-right: 1px solid #f19060;
+    z-index: 2000;
+    width: 0px;
+    min-width: 0px;
+    overflow: hidden;
+    transition: 0.35s width ease, 0.35s min-width ease;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.5);
+}
+.aside-contents ul li {
+    color: #ffffff;
+    border-bottom: 1px solid #f19060;
+    display: block;
+    padding: 10px 10px;
+}
+p{
+    color: red;
+    text-align: center;
+    font-weight: bolder;
+}
+
+
